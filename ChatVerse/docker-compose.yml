@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  chatverse:
+    build: .
+    ports:
+      - "5001:80"
