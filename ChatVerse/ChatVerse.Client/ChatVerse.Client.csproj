@@ -6,7 +6,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="8.0.0" />
     <PackageReference Include="MudBlazor" Version="7.0.0" />
-    <PackageReference Include="MudBlazor.Services" Version="7.0.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="../ChatVerse.Shared/ChatVerse.Shared.csproj" />
